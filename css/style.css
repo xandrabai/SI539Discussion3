@@ -1,0 +1,17 @@
+body{
+	margin:1%;
+	font-size:125%;
+    background-color: antiquewhite;
+    color:blueviolet;
+    line-height:normal;
+}
+h1{
+    font-family: "Comic Sans MS", "Comic Sans", "Bradley Hand", "Chalkboard", cursive;
+    font-size: 2em;
+    font-weight: 100;
+}
+h2, p{
+    font-family: "Comic Sans", "Bradley Hand", "Chalkboard", cursive;
+    color:#333;
+    font-size: 1.1em;
+}
